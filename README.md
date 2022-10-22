@@ -2,7 +2,7 @@
 
 ## Anggota Kelompok : Aris Muhandisin 201910370311432
 ## Membuat dan meggunakan model (Modeling) yang sesuai dengan dataset di paper referensi utama dan mendeploy program di heroku
-## Link Heroku/AWS : -
+## Link Heroku/AWS : https://ir-pneumonia.herokuapp.com/
 ## Link Jurnal Referensi : https://www.tandfonline.com/doi/abs/10.1080/02522667.2020.1809096?cookieSet=1
 ## Link Dataset : https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
