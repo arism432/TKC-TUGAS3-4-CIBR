@@ -7,7 +7,7 @@ class FeatureExtractor:
         self.model = model
 
     def extract(self, img):
-        img = img.resize((224, 224))
+        img = img.resize((299, 299))
         img = img.convert('RGB')
 #        img = np.reshape(img, (150, 150,3))
 
